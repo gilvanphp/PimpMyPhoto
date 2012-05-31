@@ -1,0 +1,21 @@
+html{overflow:auto;}
+body{font-family:"lucida grande",tahoma,verdana,arial,sans-serif;font-size:11px;overflow:auto;}
+div#fontb{margin-top:7px;font-size:13px;font-weight:bold;border-bottom:medium none;background-color:rgb(242, 242, 242);padding:4px 6px 5px;border-top:1px solid rgb(226, 226, 226);clear:both;}
+div#loading {width:300px;position:absolute;z-index:-1;left:270px;top:60px;}
+div#i{width:130px;height:100px;float:left;border:1px solid rgb(204, 204, 204);display:inline-block;padding:4px;margin:2px;}
+div#i:hover{border:1px solid #9999CC;}
+	div#i img{width:130px;height:100px;}	
+div#txtHint img{width:auto;margin:0 auto;float:left;border:1px solid rgb(204, 204, 204);display:inline-block;padding:4px;margin:2px;}
+div#list-efeitos{width:240px;margin:0px;float:left;}
+.img_lib{width:auto;height:84px;float:left;padding:3px;margin:2px;-moz-border-radius: 15px;border-radius: 15px;border:0px;-moz-box-shadow: 2px 2px 2px #888888;-webkit-box-shadow: 2px 2px 2px #888888 ;box-shadow: 2px 2px 2px #888888;}
+#im:hover{border:1px solid #666;}
+
+.button_outside_border_green{width:111px;border:solid #3b6e22 1px;border-bottom:solid #2c5115 1px;cursor:pointer;float:left;} 
+.button_inside_border_green{padding:6px 0 6px 0;background-color:#68a64c;border-top:solid #98c286 1px;text-align:center;color:#ffffff;font-weight:bold;font-size:12px;} 
+	div.button_inside_border_green:active{background-color:#609946;}
+	
+.button_outside_border_blue{width:224px;border:solid #29447e 1px;border-bottom:solid #1a356e 1px;cursor:pointer;float:left;} 
+.button_inside_border_blue{padding:6px 0 6px 0;background-color:#5c75a9;border-top:solid #8a9cc2 1px;text-align:center;font-weight:bold;font-size:12px;}
+	div.button_inside_border_blue:active{background-color:#4f6aa3;}
+	.button{text-decoration:none;color:#FFF;}
+ 
